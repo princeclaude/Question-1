@@ -1,0 +1,31 @@
+
+
+what is an Algorithm?
+an algorithm is a set of instructions created for the purpose of solving a particular problem or getting an expected output.
+
+what is a pseudocode?
+Pseudocode  is a clear description of what an algorithm has to do, a pseudocode is written in a clear language rather than a programming language.
+
+what is a flowchat?
+a flowchart is diagram that states the process in which a problem is solved or a solution is achieved.
+
+properties of algorithm
+a) input
+b) output
+c)effectiveness
+d) finiteness
+e)definiteness
+
+
+*pseudocode of the algorithm:
+step 1: create a function with 2 parameters
+
+step 2:declare two variables whose values should be gotten from the user
+
+step 3: sum up the 2 values
+
+step 4: convert your answer to integer
+
+step 5: print result
+
+step 6: instantiate a class
